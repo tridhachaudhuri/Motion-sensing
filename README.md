@@ -1,9 +1,13 @@
 # Motion-sensing
 This include the individual code for sensing motion using a PIR sensor.
+
+
+
+
+
 /*
 To check motion sensing using  a PIR sensor and sending a message to the person required stating that someone has come to the house
 */
-
 #include<SoftwareSerial.h>
 SoftwareSerial mySerial(9,10);
 
